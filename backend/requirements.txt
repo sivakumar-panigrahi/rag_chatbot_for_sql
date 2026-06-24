@@ -12,4 +12,7 @@ python-dotenv
 groq
 sentence-transformers
 rank-bm25
-
+sqlglot
+requests
+numpy
+pandas
