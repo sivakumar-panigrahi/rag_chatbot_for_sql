@@ -1,0 +1,3 @@
+APP_NAME = "RAG SQL Chatbot"
+
+API_VERSION = "1.0.0"

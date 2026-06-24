@@ -1,0 +1,6 @@
+[
+  {
+    "query": "DROP TABLE customers;",
+    "should_allow": false
+  }
+]

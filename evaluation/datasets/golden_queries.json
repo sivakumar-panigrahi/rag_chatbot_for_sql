@@ -1,0 +1,6 @@
+[
+  {
+    "query": "Show me all customers",
+    "expected_sql": "SELECT * FROM customers;"
+  }
+]

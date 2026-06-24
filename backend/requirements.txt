@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]>=2.0.0
+asyncpg
+psycopg[binary]
+pydantic>=2.0.0
+pydantic-settings
+structlog
+alembic

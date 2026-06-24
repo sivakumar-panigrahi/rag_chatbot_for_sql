@@ -1,0 +1,1 @@
+# Error panel UI component
